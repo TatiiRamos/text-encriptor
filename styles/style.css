@@ -1,0 +1,17 @@
+
+.body{
+    background-color: #FFFFFF;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.header img{
+    width: 120px;
+    height: 48px;
+    
+    
+} 
